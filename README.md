@@ -31,6 +31,12 @@ pip install Flask
 pip install psycopg2
 ```
 
+OR
+
+```bash
+pip install -r requirements.txt
+````
+
 ## How to Run
 - Clone Repository
 ```bash

@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5134b71d-2886-43e4-9dc9-e6f61db1e08f" name="Changes" comment="Added Flask routes for handling various API endpoints">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="5134b71d-2886-43e4-9dc9-e6f61db1e08f" name="Changes" comment="Update README.md file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705588768206</updated>
       <workItem from="1705588774319" duration="207000" />
-      <workItem from="1705589013138" duration="4870000" />
+      <workItem from="1705589013138" duration="4989000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -98,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705593538098</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update README.md file">
+      <option name="closed" value="true" />
+      <created>1705594038619</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705594038619</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,7 +124,8 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Added database functions to retrieve the data from database" />
     <MESSAGE value="Added Flask routes for handling various API endpoints" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Flask routes for handling various API endpoints" />
+    <MESSAGE value="Update README.md file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README.md file" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/WebApp_AskMate$main.coverage" NAME="main Coverage Results" MODIFIED="1705591987148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
