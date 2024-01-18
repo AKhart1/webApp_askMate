@@ -7,7 +7,6 @@ This is a simple Python Flask project that serves as an API for a question-and-a
 - parameters `order_by` Order the results by specific field
 2. Get All Answers: `GET /answers`
 - parameters `order_by` Order the results by specific field
-- 
 3. Get All Users `GET /users`
 
 4. Get a Specific Question: `GET /questions/<id>`
